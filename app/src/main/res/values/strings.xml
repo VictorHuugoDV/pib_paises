@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PIB</string>
+    <string name="pib_paises">Lista de países por PIB</string>
+    <string name="proximo_pais">Proximo país</string>
+    <string name="pais_anterior">País anterior</string>
+    <string name="primeiro_pais">Estados Unidos</string>
+    <string name="pib_usa">25,035,164</string>
+    <string name="segundo_pais">China</string>
+    <string name="pib_china">18,321,197</string>
+    <string name="terceiro_pais">Japão</string>
+    <string name="pib_japao">4,300,621</string>
+    <string name="quanto_pais">Alemanha</string>
+    <string name="quinto_pais">India</string>
+    <string name="sexto_pais">Reino Unido</string>
+    <string name="setimo_pais">França</string>
+    <string name="oitavo_pais">Canadá</string>
+    <string name="nono_pais">Russia</string>
+    <string name="decimo_pais">Italia</string>
+    <string name="pib_alemanha">4,031,149</string>
+    <string name="pib_india">3,468,566</string>
+    <string name="pib_reinounido">3,198,470</string>
+    <string name="pib_franca">2,778,090</string>
+    <string name="pib_canda">2,200,352</string>
+    <string name="pib_russia">2,133,092	</string>
+    <string name="pib_italia">1,996,934	</string>
+    <string name="ranking1">1°</string>
+    <string name="ranking2">2°</string>
+    <string name="ranking3">3°</string>
+    <string name="ranking4">4°</string>
+    <string name="ranking5">5°</string>
+    <string name="ranking6">6°</string>
+    <string name="ranking7">7°</string>
+    <string name="ranking8">8°</string>
+    <string name="ranking9">9°</string>
+    <string name="ranking10">10°</string>
+    <string name="ano_pesquisa">Ano da pesquisa:2022</string>
+</resources>
